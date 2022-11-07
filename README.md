@@ -1,4 +1,4 @@
-## Google Data Analytics Professional Certification
+## [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 # Course Certificates Completed
 - Foundations: Data, Data, Everywhere
@@ -10,4 +10,4 @@
 - Process Data from Dirty to Clean
 - Google Data Analytics Capstone: Complete a Case Study
 
-![cert](google-data-analytics.png)
+![cert](google-data-analytics.jpeg)
